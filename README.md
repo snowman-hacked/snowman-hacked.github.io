@@ -1,6 +1,6 @@
 # 📜 정지용 포트폴리오
 
-> 정지용(Dongwoo Kim) - kimphysicsman 포트폴리오
+> 정지용(Jiyong Jung) - Snowman-hacked 포트폴리오
 
 <br />
 
