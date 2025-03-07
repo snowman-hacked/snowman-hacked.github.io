@@ -42,19 +42,23 @@
 <br />
 
 ## 🎯 미니 프로젝트
-### 5. [📈 Streamlit을 활용한 비트코인 시세 캔들차트 시각화](https://github.com/snowman-hacked/Streamlit)
+### 5. [🖥 파이썬 코드 실습](https://github.com/snowman-hacked/pythonMiniProject)
+> - **설명**: Python의 다양한 기능을 익히기 위해 기초적인 코드 실습 진행  
+> - **기술 스택**: Python, 알고리즘, 자동화, GUI  
+
+### 6. [📈 Streamlit을 활용한 비트코인 시세 캔들차트 시각화](https://github.com/snowman-hacked/Streamlit)
 > - **설명**: Streamlit을 활용하여 비트코인 및 주요 암호화폐의 1시간 단위 캔들차트를 시각화하는 웹 애플리케이션 개발
 > - **기술 스택**: Python, Streamlit, PyUpbit, Matplotlib, Pandas
 
-### 6. [💬 Python으로 채팅 프로그램 만들기](https://github.com/snowman-hacked/PyChat)
+### 7. [💬 Python으로 채팅 프로그램 만들기](https://github.com/snowman-hacked/PyChat)
 > - **설명**: Socket 및 Threading을 활용하여 네트워크 채팅 프로그램 구현 (GUI 포함)
 > - **기술 스택**: Python, Socket, Threading, Tkinter
 
-### 7. [🍽 Flask와 Ngrok을 활용한 '오늘 뭐 먹지?' 웹사이트 개발](https://github.com/snowman-hacked/FoodRecommand)
+### 8. [🍽 Flask와 Ngrok을 활용한 '오늘 뭐 먹지?' 웹사이트 개발](https://github.com/snowman-hacked/FoodRecommand)
 > - **설명**: Flask를 활용하여 랜덤 음식 추천 웹사이트 개발 및 Ngrok을 통해 외부 공개
 > - **기술 스택**: Python, Flask, Ngrok, HTML, JSON
 
-### 8. [🎟 인터파크 티켓팅 자동화 매크로 개발 ](https://github.com/snowman-hacked/TicketingMacro)
+### 9. [🎟 인터파크 티켓팅 자동화 매크로 개발 ](https://github.com/snowman-hacked/TicketingMacro)
 > - **설명**: PyAutoGUI 및 키보드 이벤트를 활용한 자동 좌석 선택 매크로 개발  
 > - **기술 스택**: Python, PyAutoGUI, Keyboard, PIL, ImageGrab  
 
@@ -62,17 +66,32 @@
 
 ## 🎓 기타 활동
 
-### 9. 🔒 정보보안 동아리 활동 (정보보안기사 스터디장)
+### 10. 🔒 정보보안 동아리 활동 (정보보안기사 스터디장)
 > - **설명**: 정보보안기사 취득을 목표로 한 보안 스터디 운영 및 학습 관리
 > - **기간**: 2024.03 - 2024.08
 > - **핵심 역할**: 보안 이론 학습 및 실습 진행, 팀원 피드백 제공, 모의 해킹 실습 주관
 > - **기술 스택**: 네트워크 보안, 시스템 해킹, 웹 보안
 
-### 10. 🎲 보드게임 개발 및 사업 제안서 작성
+### 11. 🎲 보드게임 개발 및 사업 제안서 작성
 > - **설명**: 글로벌 리빙랩 프로젝트로 미국 디지펜공과대학에서 진행한 보드게임 개발 및 보스턴 셀틱스 대상 사업 제안서 작성
 > - **기간**: 2024.07
 > - **핵심 역할**: 보드게임 규칙 기획, 웹을 활용한 미니게임 개발, 사업 아이디어 정리 및 발표, 비즈니스 모델 구축
 > - **기술 스택**: 게임 기획, 웹 개발, 비즈니스 모델링, 발표 및 피칭
+
+<br />
+
+## 🎓 학력
+
+> - 배재대학교 정보보안 학사 졸업 예정(2026)
+
+## 🏆 수상 경력
+
+> - 한국컨텐츠학회 산학협력 캡스톤디자인 논문 경진대회 최우수상 (2024)
+> - 배재대학교 디지털신기술 AI/XR 소셜 해커톤 경진대회 사업단장상 (2024)
+> - 한국 메타버스산업협회 글로벌 창업 경진대회 은상 (2024)
+> - 게명대학교 마이크로디그리 엑스포 최우수 (2024)
+> - 계명대학교 마이크로디그리 엑스포 우수 (2024)
+> - 한국컨텐츠학회 ICCC 국제학술대회 Capstone Design Competition 장려상 (2024)
 
 <br />
 
