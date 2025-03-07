@@ -16,19 +16,19 @@
 ## 📝 프로젝트
 다양한 프로젝트를 진행하며 ***핵심 기능 개발, 알고리즘 설계, AI 모델 구축*** 등의 역할을 수행했습니다.
 
-### 1. 🎥 딥페이크 탐지 모델 개발
+### 1. [🎥 딥페이크 탐지 모델 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050303)
 > - **설명**: 딥페이크 사진을 탐지하는 ResNet50 기반 AI 모델 개발 및 논문 작성
 > - **기간**: 2024.08 - 2024.11
 > - **핵심 역할**: 모델 설계 및 학습, 성능 평가, Tensorflow 기반 구현, 연구 논문 작성
 > - **기술 스택**: tensorflow, OpenCV, CNN
 
-### 2. 🔐 바코드를 통한 SQL Injection 방어 매커니즘 제안
+### 2. [🔐 바코드를 활용한 SQL Injection 방어 매커니즘 제안](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11797019)
 > - **설명**: 바코드를 활용한 SQL Injection 공격 탐지 및 방어 매커니즘 연구 및 논문 작성
 > - **기간**: 2024.03 - 2024.07
 > - **핵심 역할**: SQL Injection 공격 유형 분석, 보안 솔루션 설계 및 테스트, 연구 논문 작성
 > - **기술 스택**: MySQL, SQL 보안 기법, 웹 보안
 
-### 3. 📄 생성형 AI를 피벗으로 활용한 논문 제목 분석 및 작성 가이드라인 제시
+### 3. [📄 생성형 AI를 피벗으로 활용한 논문 제목 분석 및 작성 가이드라인 제시](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11554888)
 > - **설명**: 생성형 AI를 활용하여 논문 제목 분석 및 작성 가이드라인 연구 및 논문 작성
 > - **기간**: 2023.07 - 2023.10
 > - **핵심 역할**: 데이터 수집 및 전처리, 자연어 처리 모델 구축, 실험 및 성능 분석
@@ -42,19 +42,19 @@
 <br />
 
 ## 🎯 미니 프로젝트
-### 5. 📈 Streamlit을 활용한 비트코인 시세 캔들차트 시각화(https://github.com/snowman-hacked/Streamlit)
+### 5. [📈 Streamlit을 활용한 비트코인 시세 캔들차트 시각화](https://github.com/snowman-hacked/Streamlit)
 > - **설명**: Streamlit을 활용하여 비트코인 및 주요 암호화폐의 1시간 단위 캔들차트를 시각화하는 웹 애플리케이션 개발
 > - **기술 스택**: Python, Streamlit, PyUpbit, Matplotlib, Pandas
 
-### 6. 💬 Python으로 채팅 프로그램 만들기
+### 6. [💬 Python으로 채팅 프로그램 만들기](https://github.com/snowman-hacked/PyChat)
 > - **설명**: Socket 및 Threading을 활용하여 네트워크 채팅 프로그램 구현 (GUI 포함)
 > - **기술 스택**: Python, Socket, Threading, Tkinter
 
-### 7. 🍽 Flask와 Ngrok을 활용한 '오늘 뭐 먹지?' 웹사이트 개발
+### 7. [🍽 Flask와 Ngrok을 활용한 '오늘 뭐 먹지?' 웹사이트 개발](https://github.com/snowman-hacked/FoodRecommand)
 > - **설명**: Flask를 활용하여 랜덤 음식 추천 웹사이트 개발 및 Ngrok을 통해 외부 공개
 > - **기술 스택**: Python, Flask, Ngrok, HTML, JSON
 
-### 8. 🎟 인터파크 티켓팅 자동화 매크로 개발  
+### 8. 🎟 인터파크 티켓팅 자동화 매크로 개발 
 > - **설명**: PyAutoGUI 및 키보드 이벤트를 활용한 자동 좌석 선택 매크로 개발  
 > - **기술 스택**: Python, PyAutoGUI, Keyboard, PIL, ImageGrab  
 
