@@ -39,26 +39,32 @@
 > - **기간**: 2024.08 - 2024.11
 > - **핵심 역할**: 센서 데이터 활용 모델 구현, 경고 시스템 설계
 > - **기술 스택**: Java (Android Studio), ELM327 활용, ECU(APS센서) 분석
+
+### 5. ☁️ 클라우드 기반 유출 탐지 자동화 시스템
+> - **설명**: 공개 S3 버킷에서 수집한 문서의 유출 여부 및 악성코드·개인정보 포함 여부를 자동 분석하고 보고서화하는 보안 플랫폼 개발
+> - **기간**: 2025.04 - 2025.07
+> - **핵심 역할**: 공개 저장소 크롤링, VirusTotal·YARA 기반 악성코드 탐지, OCR·LLM 기반 개인정보 분석, PDF 자동 보고서 생성
+> - **기술 스택**: Python, Selenium, VirusTotal API, YARA, Clova OCR, LLM (Llama 3), MySQL, ReportLab
 <br />
 
 ## 🎯 미니 프로젝트
-### 5. [🖥 파이썬 코드 실습](https://github.com/snowman-hacked/pythonMiniProject)
+### 6. [🖥 파이썬 코드 실습](https://github.com/snowman-hacked/pythonMiniProject)
 > - **설명**: Python의 다양한 기능을 익히기 위해 기초적인 코드 실습 진행  
 > - **기술 스택**: Python, 알고리즘, 자동화, GUI  
 
-### 6. [📈 Streamlit을 활용한 비트코인 시세 캔들차트 시각화](https://github.com/snowman-hacked/Streamlit)
+### 7. [📈 Streamlit을 활용한 비트코인 시세 캔들차트 시각화](https://github.com/snowman-hacked/Streamlit)
 > - **설명**: Streamlit을 활용하여 비트코인 및 주요 암호화폐의 1시간 단위 캔들차트를 시각화하는 웹 애플리케이션 개발
 > - **기술 스택**: Python, Streamlit, PyUpbit, Matplotlib, Pandas
 
-### 7. [💬 Python으로 채팅 프로그램 만들기](https://github.com/snowman-hacked/PyChat)
+### 8. [💬 Python으로 채팅 프로그램 만들기](https://github.com/snowman-hacked/PyChat)
 > - **설명**: Socket 및 Threading을 활용하여 네트워크 채팅 프로그램 구현 (GUI 포함)
 > - **기술 스택**: Python, Socket, Threading, Tkinter
 
-### 8. [🍽 Flask와 Ngrok을 활용한 '오늘 뭐 먹지?' 웹사이트 개발](https://github.com/snowman-hacked/FoodRecommand)
+### 9. [🍽 Flask와 Ngrok을 활용한 '오늘 뭐 먹지?' 웹사이트 개발](https://github.com/snowman-hacked/FoodRecommand)
 > - **설명**: Flask를 활용하여 랜덤 음식 추천 웹사이트 개발 및 Ngrok을 통해 외부 공개
 > - **기술 스택**: Python, Flask, Ngrok, HTML, JSON
 
-### 9. [🎟 인터파크 티켓팅 자동화 매크로 개발 ](https://github.com/snowman-hacked/TicketingMacro)
+### 10. [🎟 인터파크 티켓팅 자동화 매크로 개발 ](https://github.com/snowman-hacked/TicketingMacro)
 > - **설명**: PyAutoGUI 및 키보드 이벤트를 활용한 자동 좌석 선택 매크로 개발  
 > - **기술 스택**: Python, PyAutoGUI, Keyboard, PIL, ImageGrab  
 
@@ -66,13 +72,13 @@
 
 ## 🎓 기타 활동
 
-### 10. 🔒 정보보안 동아리 활동 (정보보안기사 스터디장)
+### 11. 🔒 정보보안 동아리 활동 (정보보안기사 스터디장)
 > - **설명**: 정보보안기사 취득을 목표로 한 보안 스터디 운영 및 학습 관리
 > - **기간**: 2024.03 - 2024.08
 > - **핵심 역할**: 보안 이론 학습 및 실습 진행, 팀원 피드백 제공, 모의 해킹 실습 주관
 > - **기술 스택**: 네트워크 보안, 시스템 해킹, 웹 보안
 
-### 11. 🎲 보드게임 개발 및 사업 제안서 작성
+### 12. 🎲 보드게임 개발 및 사업 제안서 작성
 > - **설명**: 글로벌 리빙랩 프로젝트로 미국 디지펜공과대학에서 진행한 보드게임 개발 및 보스턴 셀틱스 대상 사업 제안서 작성
 > - **기간**: 2024.07
 > - **핵심 역할**: 보드게임 규칙 기획, 웹을 활용한 미니게임 개발, 사업 아이디어 정리 및 발표, 비즈니스 모델 구축
